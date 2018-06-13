@@ -50,7 +50,7 @@ create_Pitch(goaltype = "box")
 ```
 ![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-3.png)
 
-Barca Numbers Design [link]("https://twitter.com/barcanumbers")
+Barca Numbers Design [link](https://twitter.com/barcanumbers)
 ```R
 create_Pitch(goaltype = "barcanumbers")
 ```
