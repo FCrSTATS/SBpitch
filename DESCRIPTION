@@ -1,10 +1,12 @@
 Package: SBpitch
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Create a pitch plot ready for Statsbomb data
+Version: 1.0
+Authors@R: person("FC", "rStats", email = "info@fcrstats.com", role = c("aut", "cre"))
+Description: Creating a pitch plot using ggplot2 that is ready to plot actions on top. Numerous options allow customisation.
 Depends: R (>= 3.5.0)
-License: What license is it under?
+License: Whatever
 Encoding: UTF-8
 LazyData: true
+Imports: 
+        ggplot2
 RoxygenNote: 6.0.1
