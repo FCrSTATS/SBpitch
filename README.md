@@ -58,8 +58,27 @@ create_Pitch(JdeP = TRUE)
 ```
 ![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-5.png)
 
+## Colour Schemes 
 
+There are 4 colours that you can adjust 
 
+#### Blue Example
+```R
+create_Pitch(grass_colour = "#224C56", line_colour =  "#B3CED9", background_colour = "#224C56", goal_colour = "#15393D")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-6.png)
+
+#### Night Example
+```R
+create_Pitch(grass_colour = "#202020", line_colour =  "#797876", background_colour = "#202020", goal_colour = "#131313")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-7.png)
+
+#### Green Example
+```R
+create_Pitch(grass_colour = "#538032", line_colour =  "#ffffff", background_colour = "#538032", goal_colour = "#000000")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-8.png)
 
 
 
