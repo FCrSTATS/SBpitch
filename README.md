@@ -3,6 +3,8 @@ Statsbomb have released a [free dataset](https://statsbomb.com/resource-centre) 
 
 To help people on their journey I have created a R package that creates customisable plots of pitches in ggplot2 that allows event data to be plotted on top. 
 
+I have also created some [tutorials](https://github.com/FCrSTATS/StatsBomb_WomensData) to help others explore the data.
+
 ## Installation 
 
 Installation is straight forward via the devtools package and the install_github() function. 
