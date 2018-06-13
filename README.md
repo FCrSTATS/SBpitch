@@ -13,11 +13,54 @@ devtools::install_github("FCrSTATS/SBpitch")
 
 ## The Default Plot 
 
-The package offers lots of customisable features but the default plot is as follows: 
+The package offers lots of customisable features but the default plot.
+
+```R
+create_Pitch()
+```
 
 ![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown.png)
 
 ## Variables to Customise 
 
-#### 
+#### Basic Features 
+```R
+create_Pitch(BasicFeatures = TRUE)
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-1.png)
+
+#### Middle Third Shading 
+```R
+create_Pitch(middlethird = TRUE))
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-2.png)
+
+#### Box Type 
+Line Design
+```R
+create_Pitch(goaltype = "line")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown.png)
+Box Design
+```R
+create_Pitch(goaltype = "box")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-3.png)
+Box Design
+```R
+create_Pitch(goaltype = "barcanumbers")
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-4.png)
+
+#### Juego de Posicion 
+```R
+create_Pitch(JdeP = TRUE)
+```
+![](https://github.com/FCrSTATS/SBpitch/blob/master/images/Unknown-5.png)
+
+
+
+
+
+
 
