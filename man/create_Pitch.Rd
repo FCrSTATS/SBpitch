@@ -25,6 +25,8 @@ create_Pitch(grass_colour = "#F9F9F9", line_colour = "#8F8F8F",
 \item{BasicFeatures}{Boolean. Default FALSE}
 
 \item{JdeP}{Boolean. Default FALSE}
+                   
+\item{arcs}{Boolean. Default TRUE}
 
 \item{padding}{Numeric. Default = 5}
 }
